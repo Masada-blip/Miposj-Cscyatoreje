@@ -34,3 +34,37 @@ allowing greater morphological flexibility and derivational depth.
 Decades of development culminated in comprehensive grammatical review. Redundancies were eliminated, 
 inconsistencies corrected, and the lexicon refined toward greater academic rigor—a dramatic shift 
 from the youthful intuition of its earliest iterations.
+
+# Internal History
+
+**The Exodus and Fall**
+
+In the distant future, humanity colonized distant planets and abandoned Earth to obscurity. 
+Millennia later, the vast galactic empire collapsed—the cause remains unknown. Most of humanity perished, 
+and colonial worlds became ruins.
+
+Then, across the cosmic void, a great ship emerged and reached the ancient shore. But those aboard were 
+no longer entirely human as we know them. They possessed different features, different ethnic compositions, 
+different values, and most crucially—a different language. Whether this tongue characterized all surviving 
+colonies or only a remnant is lost to history.
+
+**War and Settlement**
+
+Barely stabilized, these survivors faced invasion by the Titans—godlike beings who had claimed the 
+desolate world. The war was bitter but victorious; humanity prevailed, yet at terrible cost—much 
+technological knowledge was lost.
+
+The survivors settled on Berēecemlàdn, lands bordering the sea and eternally shrouded in clouds. 
+They established a feudal society, bound by tradition and memory of grandeur.
+
+**The Emperor's Vision**
+
+Yet the Emperor holds a plan to restore that lost magnificence, executing it step by step across generations. 
+The people themselves preserve tales of heroes, most notably in the folk epic *Ga lēen Ötkjöol* 
+("Song of Ruin")—recounting a glorious warrior's victory over a malevolent Titan.
+
+**Geography & Dialect**
+
+The people settled three main islands and one small central island between them, which became the capital. 
+Dialectal differences emerged primarily in phonetics, though mutual intelligibility remained intact across regions. 
+Over the ages, the language crystallized—unchanging, preserved as if in amber, until the very End of Days.
