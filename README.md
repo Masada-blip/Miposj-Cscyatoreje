@@ -63,6 +63,24 @@ Yet the Emperor holds a plan to restore that lost magnificence, executing it ste
 The people themselves preserve tales of heroes, most notably in the folk epic *Ga lēen Ötkjöol* 
 ("Song of Ruin")—recounting a glorious warrior's victory over a malevolent Titan.
 
+
+**Writing Systems: From Cosmos to Earth**
+
+During the age of space travel, the non-Latinized script served as the primary writing system—
+a sophisticated orthography that recorded the language as it had evolved across the colonies. 
+A Latinized variant existed in parallel, yet remained obscure, overshadowed by the native system's 
+established cultural authority.
+
+The catastrophe changed everything. When the survivors reached Earth's shores and discovered fragments 
+of ancient Latin civilization among the ruins, fascination ignited. The Latinized script, suddenly 
+bearing echoes of the world they had rediscovered, gained tremendous prestige. Over generations, 
+it became the dominant written form, while the original non-Latinized script receded into the background—
+preserved in archives and sacred texts, but no longer the language of daily life.
+
+Today, both systems remain in use: the Latinized script for contemporary writing and scholarship, 
+the non-Latinized as a connection to ancestral memory and linguistic heritage.
+
+
 **Geography & Dialect**
 
 The people settled three main islands and one small central island between them, which became the capital. 
