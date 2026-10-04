@@ -86,3 +86,50 @@ the non-Latinized as a connection to ancestral memory and linguistic heritage.
 The people settled three main islands and one small central island between them, which became the capital. 
 Dialectal differences emerged primarily in phonetics, though mutual intelligibility remained intact across regions. 
 Over the ages, the language crystallized—unchanging, preserved as if in amber, until the very End of Days.
+
+## Dialects and Phonetic Variation
+
+Note: Speakers of the central dialect (Cßcyatoreje) may sporadically and unselfconsciously mix phonetic features from neighboring dialects, except for the most distant southern and northen varieties. Mutual intelligibility is preserved across all varieties.
+
+Archaic Preservation: Mutàberēereje and Rēeganu'tßreje, as geographically isolated dialects, have retained numerous archaic phonetic and morphological features not found in more central, innovative varieties.
+
+---
+
+### Phonetic Correspondences Across Dialects
+
+#### Velar and Lateral Variation in *Pkjallo*(Hello)
+
+The greeting *Pkjallo* demonstrates the primary phonetic variation across dialects:
+
+| Dialect | Realization |
+|---------|-------------|
+| Standard (Cßcyatoreje) | [pxʲalʲo] |
+| Mutàberēereje | [pxʲalʲo] |
+| Mevreje | [pxʲalʲo] |
+| Rēega'tßreje | [pkʲxʲaɫo] |
+| Größcemreje | [pxʲaɫo] |
+| Rēeganu'tßreje | [pkʲxʲaiɫo] |
+
+- /kj/: Standardly realized as [xʲ] (the most common realization on the central island). Archaic dialects (Rēega'tßreje, Rēeganu'tßreje) preserve the older cluster [kʲxʲ].
+- in word Pkjalo /l/: Standard and northern dialects [lʲ] (soft); southern dialects [ɫ] (hard) (Pkjallo)
+- Diphthongization (Rēeganu'tßreje only): /a/ + /l/ → [aiɫ]
+
+#### Vowel Correspondence: /y/
+
+Across dialects, the vowel /y/ corresponds as follows:
+
+| Dialect | Correspondence |
+|---------|---|
+| Standard & all except noted | [y] |
+| Mutàberēereje | [u] |
+| Rēeganu'tßreje | [ü] |
+
+---
+
+### Plural Marker: 'tß Before Consonants
+
+The plural suffix 'tß, when preceding a consonant, is realized phonetically as [à] (the vowel, not the suffix form).
+
+Example:
+- Base: göm (house)  
+- Plural before consonant: göm'tß → realized as gömà [ˈɡøːmʌ]
