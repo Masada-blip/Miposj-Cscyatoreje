@@ -281,3 +281,87 @@ Example: `lemmbre` [lʲɛmbrə] (summer) — the final **e** reduces to [ə] in 
 #### Stress and Syllabification
 
 *[To be documented: Default stress patterns, open/closed syllable principles, syllable boundaries]*
+
+## Grammar
+
+### Tenses
+
+Mēpoßj Cßcyatoreje has **three primary tenses**:
+
+| Tense | Marker | Copula/Auxiliary | Example |
+|-------|--------|------------------|---------|
+| **Present** | `-da` | `bag` (is) | `yàtēlda` (works) |
+| **Past** | `-vē` | `tàvē` (was) | `yàtēlvē` (worked) |
+| **Future** | `-anß` | `anß` (will be) | `yàtēlanß` (will work) |
+
+The present tense is marked by the suffix `-da` appended to the verb root. Past tense uses the auxiliary `tàvē`, and future tense uses `anß`.
+
+### Plural Marking
+
+The **plural marker** is `'tß`
+
+### Case System (20 Cases)
+
+Mēpoßj Cßcyatoreje employs an extensive **nominative-accusative case system** to express grammatical and semantic relationships, replacing prepositions:
+
+1. **Nöülkkje** (Nominativus): `∅` — Subject of action
+2. **Forkkje** (Lativus): `-for` — For/behind (loyalty, sacrifice, protection)
+3. **Tàfkkje** (Dativus): `-tàf` — To/for (recipient)
+4. **Kjàkkje** (Praepositalis): `-kjà` — About (topic)
+5. **Tulkkje** (Comitativus): `-tul` — With/together with
+6. **Nukkje** (Separativus): `-nu` — From/against (distance, opposition)
+7. **Fökkje** (Instrumentalis): `-fö` — By means of
+8. **Ēnkkje** (Inessivus): `-ēn` — In/inside
+9. **ẞòpkkje** (Subessivus): `-ßòp` — Under
+10. **Ubērkkje** (Superessivus): `-ubēr` — Above
+11. **ßekkje** (Posteriora): `-ße` — Behind
+12. **Àgkkje** (Anteriora): `-àg` — In front of
+13. **Nēkkje** (Exessivus): `-nē` — Outside
+14. **Lokakkje** (Locativus): `-lok` — Point in space
+15. **Pößjkkje** (Possessivus): `-poßj` — Possession
+16. **ßöolkkje** (Accusativus/Partitivus): `-öol` — Direct object
+17. **berkkje** (Adessivus): `-ber` — On (functional/surface)
+18. **ßcßēkkje** (Ablativus): `-ßcße` — Origin/material
+19. **Pömkkje** (Perlativus): `-pöm` — Along/through
+20. **Verkkjē** (Benefactivus): `-ver` — For (benefit/purpose)
+
+#### Case Stacking
+
+Multiple cases can be applied to a single word to express complex relationships. Example:
+- `göm-poßj-ēn` = "in the possession of the house" (house-possessive-inessive)
+
+### Derivational Morphology
+
+Mēpoßj Cßcyatoreje uses **affixes** to derive new words from roots:
+
+#### Suffixes
+
+| Suffix | Function | Example |
+|--------|----------|---------|
+| `-ot` | Agentive (one who does X) | `löoyl-ot` (author) |
+| `-ßjēe` | Diminutive (small/cute) | `göm-ßjēe` (little house) |
+| `-eo` | Comparative (more X) | `kàyso-eo` (more red) |
+| `-ero` | Superlative (most X) | `kàyso-ero` (most red) |
+| `-el` | Attenuative (a bit X) | `cßcnoy-el` (a bit hot) |
+
+#### Prefixes
+
+| Prefix | Function | Example |
+|--------|----------|---------|
+| `Ēl-` | Privative (without X) | `ēl-palay` (without dignity) |
+| `à-` | Negation (not X) | `à-yàtēlda` (doesn't work) |
+| `Ce-` | Collective (all/together) | `ce-göm'tß` (housing development) |
+| `Là-` | Nominalization (act of X) | `là-yàtēl` (work, the act of working) |
+
+### Word Order
+
+*[To be documented: SVO/SOV preferences, topicalization, clause structure]*
+
+### Adjective Agreement
+
+*[To be documented: Agreement patterns with nouns in case, number, gender]*
+
+### Verbal Aspect
+
+*[To be documented: Perfective/imperfective distinctions, if present]*
+
