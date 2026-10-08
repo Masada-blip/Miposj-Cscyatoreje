@@ -236,7 +236,7 @@ The letter **ß** has **two distinct realizations** depending on phonetic contex
 
 #### Soft *L* (Default)
 
-- **L** in standard position is realized as **[ʎ]** (soft/palatal)
+- **L** in standard position is realized as **[lʲ]** (soft/palatal)
 - Example: lemmbre [lʲɛmbrə] (summer)
 
 #### Hard *Ll*
