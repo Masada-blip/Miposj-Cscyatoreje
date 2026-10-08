@@ -133,3 +133,151 @@ The plural suffix 'tß, when preceding a consonant, is realized phonetically as 
 Example:
 - Base: göm (house)  
 - Plural before consonant: göm'tß → realized as gömà [ˈɡøːmʌ]
+
+## Phonology
+
+### Vowels
+
+The standard Cßcyatoreje dialect distinguishes **nine primary vowels**:
+
+| Letter | Phonetic Value | Example |
+|--------|----------------|---------|
+| **A** | [a] | Kàyso |
+| **À** | [ʌ] | gömà |
+| **E** | [e] | lemmbre |
+| **Ē** | [i] | yàtēl |
+| **O** | [o] | tiol |
+| **Ò** | [ɔ] | pòlд |
+| **U** | [u] | màtunt |
+| **Ö** | [ø] | göm |
+| **Ü** | [y] | deütel |
+
+#### Long Vowels
+
+Long vowels are represented by **digraphs** and are pronounced with extended duration:
+
+| Digraph | Phonetic Value | Notes |
+|---------|----------------|-------|
+| **ēe** | [iː] | Long high front unrounded |
+| **öo** | [uː] | Long high back rounded |
+| **üo** | [yː] | Long high front rounded |
+
+---
+
+### Consonants
+
+| Letter | Phonetic Value | Notes |
+|--------|----------------|-------|
+| **B** | [b] | Voiced bilabial stop |
+| **C** | [ts] | Voiceless alveolar affricate |
+| **D** | [d] | Voiced alveolar stop |
+| **F** | [f] | Voiceless labiodental fricative |
+| **G** | [g] | Voiced velar stop |
+| **J** | [dʒ] ~ [tʃ] | Voiced/voiceless postalveolar affricate (context-dependent) |
+| **K** | [k] | Voiceless velar stop |
+| **M** | [m] | Voiced bilabial nasal |
+| **N** | [n] | Voiced alveolar nasal |
+| **P** | [p] | Voiceless bilabial stop |
+| **R** | [r] | Alveolar tap/trill |
+| **T** | [t] | Voiceless alveolar stop |
+| **V** | [v] | Voiced labiodental fricative |
+| **Y** | [j] | Voiced palatal approximant |
+| **L** | [lʲ] | Voiced alveolar lateral (soft/palatal) — default realization |
+| **Ll** | [l] | Voiced alveolar lateral (hard/velarized) |
+| **ß** | [ʃ] | See § Fricative *ß* below |
+
+---
+
+### Complex Consonant Clusters and Combinations
+
+#### Palatal Consonants
+
+| Combination | Phonetic Value | Notes |
+|-------------|----------------|-------|
+| **Kj** | [xʲ] | Voiceless velar fricative, palatal coloring |
+| **ẞj** | [ʃ] | Palatalized/reinforced fricative |
+| **Cßc** | [z] | Voiced fricative (complex cluster) |
+
+#### Nasal Assimilation
+
+| Combination | Phonetic Value | Notes |
+|-------------|----------------|-------|
+| **mm** | [m̃] | Geminate nasal, nasalization |
+| **nn** | [ñ] | Geminate nasal, palatal coloring |
+
+#### Velar Nasalization
+
+| Combination | Phonetic Value | Notes |
+|-------------|----------------|-------|
+| **nd** | [ŋ] | Nasal assimilates to following velar position |
+
+#### Glottalized Consonants (in some speakers)
+
+| Combination | Phonetic Value | Notes |
+|-------------|----------------|-------|
+| **dt** | [tʼ]/[dʼ] | Ejective/glottalized stop (explosive articulation) |
+
+---
+
+### Fricative *ß*: Conditional Realization
+
+The letter **ß** has **two distinct realizations** depending on phonetic context:
+
+| Context | Realization | Example |
+|---------|-------------|---------|
+| **Before consonants** | [ʃ] | ßòp [ʃɔp] (under) |
+| **Before vowels** | [z] | ßcße [ze] (ablative case) |
+
+**Rule:** *ß* is **never word-initial** in the orthography of Mēpoßj Cßcyatoreje.
+
+---
+
+### L-Softness and Velar Lowering
+
+#### Soft *L* (Default)
+
+- **L** in standard position is realized as **[ʎ]** (soft/palatal)
+- Example: lemmbre [lʲɛmbrə] (summer)
+
+#### Hard *Ll*
+
+- **Ll** is realized as **[l]** (hard/velarized)
+- **Exception:** If **Ll ** is followed by **Ö**, the hard *l* undergoes **softening**:
+  - Ll + Ö → [ʎ] (soft realization)
+
+The same rule applies to all other phonemes: any consonant before Ö is palatalized.
+
+
+---
+
+### Reading Rules for the Latinized System
+
+#### Vowel Pronunciation
+
+1. **Single vowels** are pronounced as their base values (see Vowels table above)
+2. **Vowel digraphs** (`ēe`, `öo`, `üo`) are pronounced as **long vowels** with extended duration
+3. **Diphthongs** in the standard orthography include:
+   - **Any vowel + Y** — vowel + palatal approximant [j]
+   - Examples: `öy` [øj], `ay` [aj], `ey` [ej]
+
+#### Consonant Pronunciation
+
+1. **Single consonants** are pronounced as their standard values
+2. **Palatal clusters** (`Kj`, `ẞj`) are pronounced as **single phonetic units**, not as separate consonants
+3. **Complex combinations** (`Cßc`, `mm`, `nn`, `nd`, `dt`) are pronounced according to the Combinations table above
+4. **Double consonants** in root morphemes are rare; most occur at **morpheme boundaries** during affixation
+
+#### Vowel Reduction (Schwa)
+
+In **unstressed positions**, vowels undergo **reduction** to a **schwa** [ə] — a neutral central vowel. This process is particularly common in:
+- **Unstressed syllables** within polysyllabic words
+- **Suffixes and affixes** that do not receive primary stress
+- **Word-final syllables** in certain morphological contexts
+
+Example: `lemmbre` [lʲɛmbrə] (summer) — the final **e** reduces to [ə] in unstressed position.
+
+**Note:** Vowel reduction does not appear in the written orthography; it is a feature of natural speech pronunciation.
+
+#### Stress and Syllabification
+
+*[To be documented: Default stress patterns, open/closed syllable principles, syllable boundaries]*
