@@ -147,7 +147,7 @@ The standard Cßcyatoreje dialect distinguishes **nine primary vowels**:
 | **E** | [e] | lemmbre |
 | **Ē** | [i] | yàtēl |
 | **O** | [o] | tiol |
-| **Ò** | [ɔ] | pòlд |
+| **Ò** | [ɔ] | pòll |
 | **U** | [u] | màtunt |
 | **Ö** | [ø] | göm |
 | **Ü** | [y] | deütel |
